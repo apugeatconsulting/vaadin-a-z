@@ -1,2 +1,2 @@
-# vaadin-a-z
-Vaadin A-Z
+# Vaadin A-Z
+
